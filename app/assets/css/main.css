@@ -1,0 +1,60 @@
+h1 {
+font-family: 'Roboto Slab', serif;}
+
+h2 {
+    font-family: 'PT Sans', sans-serif;
+}
+
+h3{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.btn {
+
+    border: 1px solid red;
+    padding: 5px 16px;  
+    border-radius: 3px;
+    text-decoration: none;
+    color: white;  
+    font-family: 'Roboto Slab', serif;
+    background: red;
+}
+.btn:hover{
+    background: white;
+    color: red;
+}
+
+.primary-btn{
+    border: 1px solid green;
+    padding: 5px 16px;  
+    border-radius: 3px;
+    text-decoration: none;
+    color: white;  
+    font-family: 'Roboto Slab', serif;
+    border-color: green;
+background: green;
+}
+
+.primary-btn:hover{
+    background: white;
+    color: green;
+}
+.secondary-btn{
+
+    border: 1px solid blue;
+    padding: 5px 16px;  
+    border-radius: 3px;
+    text-decoration: none;
+    color:white; 
+    font-family: 'Roboto Slab', serif;
+border-color: blue ;
+background: blue;
+}
+
+
+
+.secondary-btn:hover{
+    background: white;
+    color: blue;}
+
